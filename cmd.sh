@@ -1,4 +1,5 @@
 #!/bin/bash
+# poking jenkins scm polling
 set -e
 
 if [ "$ENV" = 'DEV' ]; then
